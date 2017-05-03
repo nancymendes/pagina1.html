@@ -20,14 +20,14 @@ namespace pagina1.html.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Your application description page.";
+            ViewData["Message"] = "Estudo para o teste de DA2";
 
             return View();
         }
 
         public IActionResult Contact()
         {
-            ViewData["Message"] = "Your contact page.";
+            ViewData["Message"] = "Licenciatura em Gestão de Sistemas de Informação";
 
             return View();
         }
@@ -36,5 +36,28 @@ namespace pagina1.html.Controllers
         {
             return View();
         }
+        public IActionResult exercicio3um()
+        {
+            return View();
+        }
+        public IActionResult exercicio3dois()
+        {
+            return View();
+        }
+        public IActionResult trestres()
+        {
+            return View();
+        }
+        public IActionResult exercicio3quatro()
+        {
+            return View();
+        }
+        public IActionResult Duvidas()
+        {
+            return View();
+        }
+
+
+
     }
 }

@@ -10,7 +10,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		global.json = global.json
 	EndProjectSection
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "pagina1.html", "src\pagina1.html\pagina1.html.xproj", "{F0FB7590-2B4E-41B0-A489-D7742B3EC10F}"
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "2ºficha.html", "src\pagina1.html\2ºficha.html.xproj", "{F0FB7590-2B4E-41B0-A489-D7742B3EC10F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
